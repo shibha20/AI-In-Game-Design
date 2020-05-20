@@ -1,6 +1,6 @@
 # AI-In-Game-Design
 
-Goal of the project : Design two non-player characters that acts as “guards” based on the steering behaviors. 
+Goal of the project : Design two non-player characters that acts as “guards”. 
 
 •	Dot Matrix (the green square) is controlled by the player using the standard WASD keys. She moves at 4 units/frame. Her goal is to reach the exit of the room (the light blue bar on the right) without being caught, at which point the player wins.
 
@@ -21,3 +21,6 @@ You are to consider your Hack and Slash to be “characters” of some sort in a
 •	They should not appear to be predictable. That is, the player should not be able to win every time using the exact same strategy.
 
 •	Hack and Slash should have different behaviors. Not only will this probably give you a better chance of success, it will also help enhance the sense of “personality”. 
+
+
+(Only the code for Hack and Slash has been uploaded as I do not own the entire game engine.) 
